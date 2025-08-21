@@ -34,8 +34,8 @@ header{
     align-items: center;
     gap: 1rem;
     width: 100%;
-    border-bottom: 2px solid #ccc; /* line under the whole header */
-    padding-bottom: 0.5rem;        /* space between content and line */
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 0.5rem;       
 }
 
 .header img{
